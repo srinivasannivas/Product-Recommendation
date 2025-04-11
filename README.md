@@ -1,4 +1,4 @@
-# 🧠 Product Recommendation using Advanced Algorithm
+# 🧠 Product Recommendation 
 
 ## 📌 Project by: Srinivasan C
 
